@@ -13,7 +13,6 @@
 - [Model Architecture](#model-architecture)
 - [Libraries & Tools Used](#libraries--tools-used)
 - [Results](#results)
-- [Project Structure](#project-structure)
 - [How to Run](#how-to-run)
 - [Dependencies](#dependencies)
 - [Future Work](#future-work)
@@ -79,26 +78,6 @@ The following libraries and tools were utilized in this project:
 ✅ Training & Validation accuracy and loss were tracked and plotted over epochs.  
 ✅ Generated a detailed **classification report** showing precision, recall, and F1-score per class.  
 ✅ Visualized a **confusion matrix** to analyze per-class performance.
-
----
-
-## 📁 **Project Structure**
-```
-animal_image_classification/
-│
-├── animal_classification.zip        # Provided dataset
-├── animal_dataset/                  # Extracted dataset
-│   └── [actual class folders]
-│
-├── animal_data_split/              # Train/Validation split
-│   ├── train/
-│   │   └── [class folders]
-│   └── val/
-│       └── [class folders]
-│
-├── colab_notebook.ipynb            # Google Colab Notebook (optional)
-├── README.md                       # Project documentation
-```
 
 ---
 
