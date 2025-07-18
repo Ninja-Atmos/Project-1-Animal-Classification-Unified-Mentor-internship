@@ -27,6 +27,8 @@ The system classifies an input image into one of **15 predefined animal classes*
 ---
 
 ## 🐘 **Dataset**
+
+📥 **Download Link:** [Google Drive](https://drive.google.com/file/d/15I_LqEvJL9ktEi6khTyulMHLO_3KiTnO/view?usp=sharing)
 - The provided dataset contains images organized into **15 folders**, each corresponding to one animal class.  
 - Each image is an RGB image of size **224×224×3**, suitable for deep learning models.  
 - Data was split into:
